@@ -13,8 +13,8 @@ Then start using Markdown syntax in your product descriptions.
 More Information
 ================
 
-[Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
-[RDiscount](https://github.com/rtomayko/rdiscount)
+* [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax)
+* [RDiscount](https://github.com/rtomayko/rdiscount)
 
 
 Copyright (c) 2011 Ted C. Howard, released under the New BSD License
