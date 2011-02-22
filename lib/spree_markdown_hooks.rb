@@ -1,3 +1,5 @@
 class SpreeMarkdownHooks < Spree::ThemeSupport::HookListener
-  # custom hooks go here
+  replace :product_description do
+    '<%= raw(@product.description_html) %>'
+  end
 end
